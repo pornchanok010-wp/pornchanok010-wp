@@ -1,7 +1,7 @@
 Hi ! My name is พรชนก ไกรนัย
 =====================================================================================================================================
 
-## ABOUT ME
+##ღ୨୧ ABOUT ME ୨୧ღ
 * 🌍  I'm based in Thailand
 * 🏫  Currently studying at Singburi Technical College
 * 📚  Field of Study Information Technology
