@@ -2,12 +2,6 @@ Hi 👋  My name is พรชนก ไกรนัย
 
 🌍 I'm based in Thailand
 
-🎓 Education
-
-- 🏫 Currently studying at Singburi Technical College
-  
-- 📚 Major: Information Technology
-
 🖥️ See my portfolio at Instagram
 
 ✉️ You can contact me at pornchanok08a@gmail.com
