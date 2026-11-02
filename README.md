@@ -2,6 +2,8 @@ Hi ! My name is พรชนก ไกรนัย
 =====================================================================================================================================
 
 * 🌍  I'm based in Thailand
+* 🏫 Currently studying at Singburi Technical College
+* 📚 Major Information Technology
 * 🖥️  See my portfolio at [instagram.com/p.ornchanok\_00](http://www.instagram.com/p.ornchanok_00?mdxt=MWhzNHk0djRxajZkMA%3D%3D&utm_source=qr)
 * ✉️  You can contact me at [pornchanok08a@gmail.com](mailto:pornchanok08a@gmail.com)
 * 🧠  I'm currently learning GitHub
